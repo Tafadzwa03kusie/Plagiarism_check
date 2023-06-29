@@ -1,0 +1,3 @@
+You'll be building an automated solution that handles plagiarism detection.
+This might be used for publishing companies to replace a manual process in which they search for phrases from submitted manuscripts on Google to find pre-existing work.
+Your task is to build a web application where a user can upload a file (e.g. an MS Word document or Google Doc file)
