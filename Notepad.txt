@@ -1,3 +1,6 @@
-You'll be building an automated solution that handles plagiarism detection.
-This might be used for publishing companies to replace a manual process in which they search for phrases from submitted manuscripts on Google to find pre-existing work.
-Your task is to build a web application where a user can upload a file (e.g. an MS Word document or Google Doc file)
+We'll create an automatic system to deal with plagiarism detection.
+Publishing companies could employ this to replace a manual procedure whereby they look up words from submitted manuscripts on Google to identify already published material.
+The assignment is to create a web application that allows users to upload files, such as Microsoft Word documents or Google Docs.
+The software should then provide a percentage of similarity, along with a list of comparable words and URLs from the original content.
+
+
